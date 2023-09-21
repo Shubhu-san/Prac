@@ -1,0 +1,14 @@
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.AssemblyInfoInputs.cache
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.AssemblyInfo.cs
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.csproj.CoreCompileInputs.cache
+D:\C#Projects\StudentGrading\bin\Debug\net7.0\StudentGrading.exe
+D:\C#Projects\StudentGrading\bin\Debug\net7.0\StudentGrading.deps.json
+D:\C#Projects\StudentGrading\bin\Debug\net7.0\StudentGrading.runtimeconfig.json
+D:\C#Projects\StudentGrading\bin\Debug\net7.0\StudentGrading.dll
+D:\C#Projects\StudentGrading\bin\Debug\net7.0\StudentGrading.pdb
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.dll
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\refint\StudentGrading.dll
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.pdb
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\StudentGrading.genruntimeconfig.cache
+D:\C#Projects\StudentGrading\obj\Debug\net7.0\ref\StudentGrading.dll
